@@ -1,0 +1,33 @@
+{
+  "products": [
+    { 
+      "id": 1,
+      "name": "PRO Powerbank",
+      "price": 200000,
+      "location": "Jakarta Barat",
+      "ratings": 5,
+      "imageUrl": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/3/11/72048583/72048583_6847377e-ad8b-4fac-b451-25f013b73b63_1000_1000.webp" },
+
+    { 
+      "id": 2,
+      "name": "REEBOK Basket Shoe",
+      "price": 1000000,
+      "location": "Jakarta Selatan",
+      "ratings": 4,
+      "imageUrl": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/8/batch-upload/batch-upload_ac3a5c4b-f848-4ce9-922a-84d9f9e819a7.jpg.webp" },
+    { 
+      "id": 3,
+      "name": "LED Lamp Philips",
+      "price": 114000,
+      "location": "Jakarta Utara",
+      "ratings": 2,
+      "imageUrl": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2018/12/22/21389091/21389091_f081262a-51af-41fb-ad30-de75e5167282_700_700.jpg.webp" },
+    { 
+      "id": 4,
+      "name": "Rolex GMT Master",
+      "price": 1150000,
+      "location": "Bekasi",
+      "ratings": 4,
+      "imageUrl": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2019/11/5/36737295/36737295_59f27cd0-3722-4553-adfa-846a7565bf2e_1279_1279.webp" }
+  ]
+}
